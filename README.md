@@ -1,6 +1,6 @@
-# Basic restserver structure
+# Restserver
 
-Basic restserver structure is a project basic restserver.
+Restserver
 
 ## Quick Start
 
